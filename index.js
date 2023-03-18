@@ -46,6 +46,12 @@ let notes = [
       content: "Aqui vamos de nuevo",
       date: "2019-05-30T19:20:14.298Z",
       important: true
+    },
+    {
+      id: 6,
+      content: "vamos a probas SSH",
+      date: "2019-05-30T19:20:14.298Z",
+      important: true
     }
 ]
 
